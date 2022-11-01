@@ -1,0 +1,6 @@
+{
+  "platformName": "iOS",
+  "automationName": "XCUITest",
+  "deviceName": "iPhone 8",
+  "app": "src/test/resources/TestApp.app"
+}
